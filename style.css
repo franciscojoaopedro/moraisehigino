@@ -20,7 +20,7 @@ img{
 
 header{
     width: 100%;
-    background: #ea1a4b;
+    background: #450a0a;
     display: flex;
     padding: 5px 10px;
     position: sticky;
@@ -293,7 +293,7 @@ footer{
     display: flex;
     padding: 20px 100px;
     bottom: 0;
-    background: #020617;
+    background: #2f0101;
     flex-direction: column;
     height: auto;
 }
@@ -373,7 +373,7 @@ footer{
     justify-content: space-around;
     align-items: center;
     width: 100%;
-    background: #020617;
+    background: #450a0a;
   }
 
   .contato .content .img-contact{
